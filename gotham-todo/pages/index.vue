@@ -4,7 +4,7 @@
       <form v-on:submit.prevent="doSomething">
         <input v-model="newTodo" type="text" class="input" />
         <button type="submit" class="button is-primary">
-          Add
+          Addasdasdasd
         </button>
       </form>
     </div>
